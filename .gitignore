@@ -46,6 +46,9 @@ config/stellarcore_stitcher_cache_vanilla.dat
 # .minecraft
 !bansoukou/**.zip
 
+# shaderpacks
+!shaderpacks/**.zip
+
 .vscode/
 .idea/
 .bobby/
@@ -75,7 +78,6 @@ CustomSkinLoader/
 EverlastingSkins/
 cache/
 screenshots/
-shaderpacks/
 chiselsandbits/
 
 # Client data

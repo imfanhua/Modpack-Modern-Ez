@@ -4177,6 +4177,130 @@
             ]
         },
         {
+            "pakku_id": "Q1NcLjKIkwRqh8ZE",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "i18nupdatemod",
+                "modrinth": "i18nupdatemod"
+            },
+            "name": {
+                "curseforge": "I18nUpdateMod",
+                "modrinth": "I18nUpdateMod"
+            },
+            "id": {
+                "curseforge": "297404",
+                "modrinth": "PWERr14M"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "I18nUpdateMod-3.6.0-all.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5841/609/I18nUpdateMod-3.6.0-all.jar",
+                    "id": "5841609",
+                    "parent_id": "297404",
+                    "hashes": {
+                        "sha1": "a738aaeb711278b763599bf8d09ff2ed87d763ae",
+                        "md5": "d9af657a82b58876f1dcff75dbd2463f"
+                    },
+                    "required_dependencies": [],
+                    "size": 45539,
+                    "date_published": "2024-10-24T13:18:13.793Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "I18nUpdateMod-3.6.0-all.jar",
+                    "mc_versions": [
+                        "1.6.1",
+                        "1.6.2",
+                        "1.6.4",
+                        "1.7.2",
+                        "1.7.10",
+                        "1.8",
+                        "1.8.8",
+                        "1.8.9",
+                        "1.9",
+                        "1.9.4",
+                        "1.10",
+                        "1.10.2",
+                        "1.11",
+                        "1.11.2",
+                        "1.12",
+                        "1.12.1",
+                        "1.12.2",
+                        "1.13.2",
+                        "1.14",
+                        "1.14.1",
+                        "1.14.2",
+                        "1.14.3",
+                        "1.14.4",
+                        "1.15",
+                        "1.15.1",
+                        "1.15.2",
+                        "1.16",
+                        "1.16.1",
+                        "1.16.2",
+                        "1.16.3",
+                        "1.16.4",
+                        "1.16.5",
+                        "1.17",
+                        "1.17.1",
+                        "1.18",
+                        "1.18.1",
+                        "1.18.2",
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/PWERr14M/versions/oT7GxJF6/I18nUpdateMod-3.6.0-all.jar",
+                    "id": "oT7GxJF6",
+                    "parent_id": "PWERr14M",
+                    "hashes": {
+                        "sha512": "3fb06e010b0a2a6e28a34fa6d0e0acf6c9e6492cabfd4259e9ed3ed9e860d0823d3c6742e533b005dd34e63b3e95cd17d3005a749e3502adc087fd6d79776307",
+                        "sha1": "a738aaeb711278b763599bf8d09ff2ed87d763ae"
+                    },
+                    "required_dependencies": [],
+                    "size": 45539,
+                    "date_published": "2024-10-24T13:18:09.268280Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "z1qM65HXcowNZoh2",
             "type": "RESOURCE_PACK",
             "side": "CLIENT",
@@ -4643,6 +4767,43 @@
                     "required_dependencies": [],
                     "size": 545911,
                     "date_published": "2024-07-01T19:38:04.103Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "3uBo0gcOq4pqkwYR",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "just-enough-characters"
+            },
+            "name": {
+                "curseforge": "Just Enough Characters"
+            },
+            "id": {
+                "curseforge": "250702"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "jecharacters-1.20.1-forge-4.5.11.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5543/190/jecharacters-1.20.1-forge-4.5.11.jar",
+                    "id": "5543190",
+                    "parent_id": "250702",
+                    "hashes": {
+                        "sha1": "a4491c7131b8dc0b7429b3fbb065d3f0998123b5",
+                        "md5": "a3b42f0490706160dccc0f8d2f9baef8"
+                    },
+                    "required_dependencies": [],
+                    "size": 261038,
+                    "date_published": "2024-07-18T13:28:28.550Z"
                 }
             ]
         },
@@ -7882,6 +8043,42 @@
                     "required_dependencies": [],
                     "size": 32044,
                     "date_published": "2024-02-08T20:42:40.987Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "kZQCuofzDOdprRJ9",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "simple-sky-resource-generators"
+            },
+            "name": {
+                "curseforge": "Simple Sky Resource Generators"
+            },
+            "id": {
+                "curseforge": "948781"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "SimpleResourceGeneratorsJAR1.12.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5108/586/SimpleResourceGeneratorsJAR1.12.jar",
+                    "id": "5108586",
+                    "parent_id": "948781",
+                    "hashes": {
+                        "sha1": "25b9d1828f2ebca8ca41073b81f6e5e17fb7908b",
+                        "md5": "690a47e6a2dd009906bfb3657c40d696"
+                    },
+                    "required_dependencies": [],
+                    "size": 429382,
+                    "date_published": "2024-02-14T22:28:15.277Z"
                 }
             ]
         },
