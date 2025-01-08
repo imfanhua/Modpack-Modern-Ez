@@ -1,6 +1,7 @@
 name: Project Build
 run-name: "Project Build #${{ github.run_number }}"
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
