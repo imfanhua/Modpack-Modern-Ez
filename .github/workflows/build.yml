@@ -12,6 +12,7 @@ concurrency:
 
 permissions:
   pull-requests: none
+  contents: write
 
 env:
   RELEASE_TYPE: "release"
